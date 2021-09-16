@@ -9,4 +9,4 @@ Caso tu estes participando de este Challenge y desees que tu proyecto aparezca e
 | Persona que creó el proyecto | Proyecto |
 | --- | --- |
 | <!-- CHANNEL_PROJECTS:START -->
-|<!-- CHANNEL_PROJECTS:END -->
+| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/alura-challenges/ChallengeOneLogicaLatam'/>](https://github.com/alura-challenges/ChallengeOneLogicaLatam) | [<img width='500px' src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://github.com/alura-challenges/ChallengeOneLogicaLatam'/>](https://github.com/alura-challenges/ChallengeOneLogicaLatam)<!-- CHANNEL_PROJECTS:END -->
