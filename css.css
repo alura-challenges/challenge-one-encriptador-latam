@@ -1,0 +1,85 @@
+body {
+  font-family: cursive;
+  background-image: url("./299937.png");
+  color: white;
+}
+
+header {
+  position: relative;
+  margin: 50px 0 10px 0;
+  font-size: 2.3em;
+  text-align: center;
+  letter-spacing: 7px;
+}
+
+footer {
+    position: relative;
+    margin: 50px 0 25px 0;
+    font-size: 30px;
+    text-align: center;
+}
+
+#form {
+  position: relative;
+  width: 500px;
+  margin: 0px auto 50px auto;
+}
+
+input {
+  font-family: cursive;
+  font-size: 0.875em;
+  width: 470px;
+  height: 50px;
+  padding: 0px 15px 0px 15px;
+}
+
+textarea {
+  position: relative;
+  width: 470px;
+  max-width: 470px;
+  height: 110px;
+  max-height: 110px;
+  padding: 15px;
+  color: black;
+  font-family: cursive;
+  font-size: 0.875em;
+  box-shadow: blue 2px 2px;
+}
+
+#btn1 {
+    left: 50%;
+    width: 50.5%;
+    padding: 0;
+    margin: 4px 0px 0px 0px;
+    font-family: cursive;
+    font-size: 0.875em;
+    color: black;
+    border: solid 2px black;
+    border-radius: 50px 50px 50px 50px;
+  }
+
+#btn2 {
+  position: absolute;
+  left: 50%;
+  width: 50.5%;
+  padding: 0;
+  margin: 4px 0px 0px 4px;
+  font-family: cursive;
+  font-size: 0.875em;
+  color: black;
+  border: solid 2px black;
+  border-radius: 50px 50px 50px 50px;
+}
+
+#btnCopy {
+    width: 502px;
+    padding: 0;
+    margin: 5px 0px 0px 0px;
+    font-family: cursive;
+    font-size: 0.875em;
+    color: black;
+    border: solid 2px black;
+    border-radius: 50px 50px 50px 50px;
+    box-shadow: 0 1px 0 black;
+    bottom: -4;
+}
