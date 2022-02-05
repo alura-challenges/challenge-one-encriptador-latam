@@ -12,7 +12,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
-    - name: Get all projects create during the Imersão Dados v3
+    - name: Get all projects create during the Challenge Iniciante en Programación - Decodificador
       uses: gautamkrishnar/blog-post-workflow@master
       with:
         comment_tag_name: CHANNEL_PROJECTS
