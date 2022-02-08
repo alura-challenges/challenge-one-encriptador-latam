@@ -6,8 +6,8 @@ En la siguiente tabla están todos los proyectos que USTEDES están construyendo
 Caso tu estes participando de este Challenge y desees que tu proyecto aparezca en esta vitrina, adiciona el hashtag #challengeonelogicalatam dentro de `Topics` en tu repositorio público.
 
 
-| Persona que creó el proyecto | Proyecto |
-| --- | --- |
+| Persona que creó el proyecto | 
+| --- |
 | <!-- CHANNEL_PROJECTS:START -->
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/alura-challenges/ChallengeOneLogicaLatam'/>](https://github.com/alura-challenges/ChallengeOneLogicaLatam) | [<img width='500px' src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://github.com/alura-challenges/ChallengeOneLogicaLatam'/>](https://github.com/alura-challenges/ChallengeOneLogicaLatam)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/sofifregona/Criptex-Oracle-ONE'/>](https://sofifregona.github.io/Criptex-Oracle-ONE/) | [<img width='500px' src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://sofifregona.github.io/Criptex-Oracle-ONE/'/>](https://sofifregona.github.io/Criptex-Oracle-ONE/)
