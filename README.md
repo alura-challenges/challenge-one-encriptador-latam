@@ -1,7 +1,7 @@
 # Alura Challenge | Oracle One | Lógica de Programación - Encriptador de texto
 
 <p align="center" >
-     <img width="500" heigth="300" src="https://user-images.githubusercontent.com/91544872/153614048-12c21632-1aba-4e93-8bb0-1e12469e3130.png">
+     <img width="500" heigth="300" src="https://user-images.githubusercontent.com/91544872/157673573-5e781ce9-601c-4ea3-9db1-b60bebf717aa.png">
 </p>
 
 ### ¡Bienvenido al proyecto base del Encriptador de texto! Pasos principales:
@@ -15,10 +15,12 @@
 
 1) Publicar el proyecto en GitHub
 2) Publicarlo en GitHub Pages: [¿Cómo publicar mi proyecto con GitHub Pages?](https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site) 
-3) Utiliza el tema/topic **challengeonelogicalatam**
+3) Utiliza el tema/topic:
+     - Grupo 1: **challengeonelogicalatam**
+     - Grupo 2: **challengeonecodificador2**
 
 Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub
-Incluye la etiqueta "**challengeonelogicalatam**"
+Incluye la etiqueta "**challengeonelogicalatam**" o "**challengeonecodificador2**" dependiendo del grupo al cual perteneces.
 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
