@@ -1,4 +1,4 @@
-# Alura Challenge | Oracle One | Lógica de Programación - Encriptador de texto
+# Challenge ONE | Lógica de Programación - Encriptador de texto
 
 <p align="center" >
      <img width="500" heigth="300" src="https://user-images.githubusercontent.com/91544872/157673573-5e781ce9-601c-4ea3-9db1-b60bebf717aa.png">
@@ -18,9 +18,10 @@
 3) Utiliza el tema/topic:
      - Grupo 1: **challengeonelogicalatam**
      - Grupo 2: **challengeonecodificador2**
+     - Grupo 3: **challengeonecodificador3**
 
 Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub
-Incluye la etiqueta "**challengeonelogicalatam**" o "**challengeonecodificador2**" dependiendo del grupo al cual perteneces.
+Incluye la etiqueta "**challengeonelogicalatam**", "**challengeonecodificador2**" o "**challengeonecodificador3**" dependiendo del grupo al cual perteneces.
 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
@@ -30,7 +31,8 @@ Incluye la etiqueta "**challengeonelogicalatam**" o "**challengeonecodificador2*
 4) Coloca tus datos en el formulario de entrega con el **link del proyecto publicado con GitHub Pages**
 🔹 [link del formulario](https://lp.alura.com.br/alura-latam-lp-entrega-de-challenge-one-esp)
 
-![formulario-latam](https://user-images.githubusercontent.com/91544872/153603386-7624de4a-8838-4fbc-9466-54222ef3f672.png)
+![formulario-latam]![image](https://user-images.githubusercontent.com/101413385/185679887-6c8f530f-7ef3-42fb-8324-39e970de0af9.png)
+
 
 5) Accede a tu correo electrónico para conseguir tu Insignia Exclusiva para este desafío 🏆
 6) ¡No olvides publicar un link o un vídeo de tu proyecto en Linkedin! 🏁
