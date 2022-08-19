@@ -18,6 +18,7 @@
 3) Utiliza el tema/topic:
      - Grupo 1: **challengeonelogicalatam**
      - Grupo 2: **challengeonecodificador2**
+     - Grupo 3: **challengeonecodificador3**
 
 Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub
 Incluye la etiqueta "**challengeonelogicalatam**" o "**challengeonecodificador2**" dependiendo del grupo al cual perteneces.
