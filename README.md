@@ -1,4 +1,4 @@
-# Challenge ONE | Lógica de Programación - Encriptador de texto
+# Challenge ONE | Lógica de Programación | Encriptador de texto
 
 <p align="center" >
      <img width="500" heigth="300" src="https://user-images.githubusercontent.com/91544872/157673573-5e781ce9-601c-4ea3-9db1-b60bebf717aa.png">
@@ -8,20 +8,18 @@
 
 #### Marca este proyecto con una estrella ⭐
 #### Sigue las lecciones y las instrucciones de contenido 📚
-#### Visita la página del Desafío [¡Haciendo clic aquí!](https://www.aluracursos.com/challenges/oracle-one) 📃
 
 ## ¿Cómo incluir mi proyecto en este Challenge?
 ---
 
-1) Publicar el proyecto en GitHub
-2) Publicarlo en GitHub Pages: [¿Cómo publicar mi proyecto con GitHub Pages?](https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site) 
+1) Publicar el proyecto en GitHub: [Creando un repositorio remoto en GitHub](https://www.aluracursos.com/blog/creando-repositorio-remoto-en-github?utm_source=gnarus&utm_medium=timeline)
+2) Publicarlo en GitHub Pages: [Paso a Paso para activar tu proyecto en GitHub Pages](https://www.aluracursos.com/blog/github-pages) 
 3) Utiliza el tema/topic:
-     - Grupo 1: **challengeonelogicalatam**
-     - Grupo 2: **challengeonecodificador2**
      - Grupo 3: **challengeonecodificador3**
+     - Grupo 4: **challengeonecodificador4**
 
 Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub
-Incluye la etiqueta "**challengeonelogicalatam**", "**challengeonecodificador2**" o "**challengeonecodificador3**" dependiendo del grupo al cual perteneces.
+Incluye la etiqueta "**challengeonecodificador3**" o "**challengeonecodificador4**" dependiendo del grupo al cual perteneces.
 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
