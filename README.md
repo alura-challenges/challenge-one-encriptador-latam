@@ -27,9 +27,9 @@ Incluye la etiqueta "**challengeonecodificador3**" o "**challengeonecodificador4
 ---
 
 4) Coloca tus datos en el formulario de entrega con el **link del proyecto publicado con GitHub Pages**
-🔹 [link del formulario](https://lp.alura.com.br/alura-latam-lp-entrega-de-challenge-one-esp)
+🔹 [link del formulario](https://lp.alura.com.br/alura-latam-entrega-challenge-one-esp)
 
-![formulario-latam]![image](https://user-images.githubusercontent.com/101413385/185679887-6c8f530f-7ef3-42fb-8324-39e970de0af9.png)
+![formulario-latam]![image](https://user-images.githubusercontent.com/92184087/208179417-7965c06e-21d6-4174-b76a-95ec648edc00.png)
 
 
 5) Accede a tu correo electrónico para conseguir tu Insignia Exclusiva para este desafío 🏆
