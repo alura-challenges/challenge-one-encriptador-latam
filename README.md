@@ -15,11 +15,11 @@
 1) Publicar el proyecto en GitHub: [Creando un repositorio remoto en GitHub](https://www.aluracursos.com/blog/creando-repositorio-remoto-en-github?utm_source=gnarus&utm_medium=timeline)
 2) Publicarlo en GitHub Pages: [Paso a Paso para activar tu proyecto en GitHub Pages](https://www.aluracursos.com/blog/github-pages) 
 3) Utiliza el tema/topic:
-     - Grupo 3: **challengeonecodificador3**
      - Grupo 4: **challengeonecodificador4**
+     - Grupo 5: **challengeonecodificador5**
 
 Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub
-Incluye la etiqueta "**challengeonecodificador3**" o "**challengeonecodificador4**" dependiendo del grupo al cual perteneces.
+Incluye la etiqueta "**challengeonecodificador4**" o "**challengeonecodificador5**" dependiendo del grupo al cual perteneces.
 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
